@@ -1,0 +1,32 @@
+{
+  "name": "movies-finder-react",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://react-movie-finder.surge.sh",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-brands-svg-icons": "^5.15.3",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "antd": "^2.13.6",
+    "axios": "^0.16.2",
+    "flow": "^0.2.3",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-icons": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.14",
+    "react-youtube": "^7.5.0",
+    "simple-react-footer": "^1.0.2",
+    "uuid": "^3.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "typecheck": "flow check src"
+  },
+  "devDependencies": {}
+}
